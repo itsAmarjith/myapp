@@ -2,9 +2,10 @@ import './App.css';
 
 
 function App() {
+  const name="amarjith"
   return (
     <div>
-    <h1 className='new'>hello world</h1>
+    <h1>my name is {name}</h1>
     <p>this is a paragraph</p>
     </div>
   );
