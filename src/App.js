@@ -1,14 +1,12 @@
-import React from "react";
-import Second from "./Components/Second";
-// import First from "./Components/First";
+import React from 'react'
+import Third from './Components/Third'
 function App() {
   return (
     <div>
-      {/*<First/>*/}
-      <Second/>
+      <Third/>
     </div>
-   
-  );
+  )
 }
 
-export default App;
+export default App
+
