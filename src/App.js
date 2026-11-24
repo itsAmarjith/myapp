@@ -1,13 +1,11 @@
-import './App.css';
-
-
+import React from "react";
+import First from "./Components/First";
 function App() {
-  const name="Amarjith"
   return (
     <div>
-    <h1>my name is {name}</h1>
-    <p>this is a paragraph</p>
+      <First/>
     </div>
+   
   );
 }
 
