@@ -1,9 +1,11 @@
 import React from "react";
-import First from "./Components/First";
+import Second from "./Components/Second";
+// import First from "./Components/First";
 function App() {
   return (
     <div>
-      <First/>
+      {/*<First/>*/}
+      <Second/>
     </div>
    
   );
